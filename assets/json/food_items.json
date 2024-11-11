@@ -1,0 +1,470 @@
+{
+  "body": {
+    "products": [
+      {
+        "product_name": "Banana",
+        "product_id": 1,
+        "image": "assets/images/Banana.png",
+        "price": 5,
+        "category": "Fruits",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a piece of banana",
+        "type": "veg"
+      },
+      {
+        "product_name": "Bread Slices",
+        "product_id": 2,
+        "image": "assets/images/BreadSlices.png",
+        "price": 10,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 12,
+          "grams": 100,
+          "proteins": 15,
+          "fats": 10,
+          "carbs": 15
+        },
+        "description": "a few slices of bread",
+        "type": "veg"
+      },
+      {
+        "product_name": "Brown Egg",
+        "product_id": 3,
+        "image": "assets/images/BrownEgg.png",
+        "price": 4,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 15,
+          "grams": 10,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a brown egg",
+        "type": "non-veg"
+      },
+      {
+        "product_name": "Candies",
+        "product_id": 4,
+        "image": "assets/images/Candies.png",
+        "price": 2,
+        "category": "Sweets",
+        "nutrients": {
+          "kcal": 20,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a few pieces of candy",
+        "type": "veg"
+      },
+      {
+        "product_name": "Cookie",
+        "product_id": 5,
+        "image": "assets/images/Cookie.png",
+        "price": 3,
+        "category": "Sweets",
+        "nutrients": {
+          "kcal": 5,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a piece of cookie",
+        "type": "veg"
+      },
+      {
+        "product_name": "Dessert",
+        "product_id": 6,
+        "image": "assets/images/Dessert.png",
+        "price": 10,
+        "category": "Sweets",
+        "nutrients": {
+          "kcal": 11,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a delicious dessert",
+        "type": "veg"
+      },
+      {
+        "product_name": "Egg",
+        "product_id": 7,
+        "image": "assets/images/Egg.png",
+        "price": 4,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 18,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "an egg",
+        "type": "non-veg"
+      },
+      {
+        "product_name": "Egg Salad",
+        "product_id": 8,
+        "image": "assets/images/EggSalad.png",
+        "price": 15,
+        "category": "Salad",
+        "nutrients": {
+          "kcal": 20,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a salad with egg",
+        "type": "non-veg"
+      },
+      {
+        "product_name": "Fruit Dessert",
+        "product_id": 24,
+        "image": "assets/images/FruitDessert.png",
+        "price": 7,
+        "category": "Sweets",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a desert made of sweets",
+        "type": "veg"
+      },
+      {
+        "product_name": "Fruits Salad",
+        "product_id": 10,
+        "image": "assets/images/FruitsSalad.png",
+        "price": 10,
+        "category": "Salad",
+        "nutrients": {
+          "kcal": 4,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a salad made of fruits",
+        "type": "veg"
+      },
+      {
+        "product_name": "Garlic",
+        "product_id": 11,
+        "image": "assets/images/Garlic.png",
+        "price": 5,
+        "category": "Vegetables",
+        "nutrients": {
+          "kcal": 5,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a piece of Garlic",
+        "type": "veg"
+      },
+      {
+        "product_name": "Ginger",
+        "product_id": 12,
+        "image": "assets/images/Ginger.png",
+        "price": 5,
+        "category": "Vegetables",
+        "nutrients": {
+          "kcal": 1,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a piece of Ginger",
+        "type": "veg"
+      },
+      {
+        "product_name": "Green Apples",
+        "product_id": 13,
+        "image": "assets/images/GreenApples.png",
+        "price": 5,
+        "category": "Fruits",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "few green apples",
+        "type": "veg"
+      },
+      {
+        "product_name": "Grilled Chicken",
+        "product_id": 14,
+        "image": "assets/images/GrilledChicken.png",
+        "price": 25,
+        "category": "Dish",
+        "nutrients": {
+          "kcal": 12,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Grilled Chicken dish",
+        "type": "non-veg"
+      },
+      {
+        "product_name": "Indian Chutney",
+        "product_id": 15,
+        "image": "assets/images/IndianChutney.png",
+        "price": 10,
+        "category": "Dish",
+        "nutrients": {
+          "kcal": 11,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Indian Chutney made of different spices",
+        "type": "veg"
+      },
+      {
+        "product_name": "Leaves",
+        "product_id": 16,
+        "image": "assets/images/Leaves.png",
+        "price": 2,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 10,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Leaves",
+        "type": "veg"
+      },
+      {
+        "product_name": "Lemon",
+        "product_id": 17,
+        "image": "assets/images/Lemon.png",
+        "price": 10,
+        "category": "Fruits",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Lemon",
+        "type": "veg"
+      },
+      {
+        "product_name": "Lime",
+        "product_id": 18,
+        "image": "assets/images/Lime.png",
+        "price": 10,
+        "category": "Fruits",
+        "nutrients": {
+          "kcal": 12,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Lime",
+        "type": "veg"
+      },
+      {
+        "product_name": "Meat",
+        "product_id": 19,
+        "image": "assets/images/Meat.png",
+        "price": 10,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 40,
+          "grams": 500,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a piece of Meat",
+        "type": "non-veg"
+      },
+      {
+        "product_name": "Napoli Bread",
+        "product_id": 20,
+        "image": "assets/images/NapoliBread.png",
+        "price": 10,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 11,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "s loaf of Napoli Bread",
+        "type": "veg"
+      },
+      {
+        "product_name": "Onion",
+        "product_id": 21,
+        "image": "assets/images/Onion.png",
+        "price": 1,
+        "category": "Vegetables",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "a piece of onion",
+        "type": "veg"
+      },
+      {
+        "product_name": "Pepper",
+        "product_id": 22,
+        "image": "assets/images/Pepper.png",
+        "price": 2,
+        "category": "Vegetables",
+        "nutrients": {
+          "kcal": 3,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Pepper",
+        "type": "veg"
+      },
+      {
+        "product_name": "Pizza",
+        "product_id": 23,
+        "image": "assets/images/Pizza.png",
+        "price": 20,
+        "category": "Pizza",
+        "nutrients": {
+          "kcal": 50,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Pizza",
+        "type": "veg"
+      },
+      {
+        "product_name": "Salad",
+        "product_id": 24,
+        "image": "assets/images/Salad.png",
+        "price": 12,
+        "category": "Salad",
+        "nutrients": {
+          "kcal": 11,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Salad made of vegetables",
+        "type": "veg"
+      },
+      {
+        "product_name": "Soup",
+        "product_id": 25,
+        "image": "assets/images/Soup.png",
+        "price": 12,
+        "category": "Dish",
+        "nutrients": {
+          "kcal": 6,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Soup",
+        "type": "veg"
+      },
+      {
+        "product_name": "Spices",
+        "product_id": 26,
+        "image": "assets/images/Spices.png",
+        "price": 5,
+        "category": "Grocery",
+        "nutrients": {
+          "kcal": 22,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Spices",
+        "type": "veg"
+      },
+      {
+        "product_name": "Spicy Pepper",
+        "product_id": 27,
+        "image": "assets/images/SpicyPepper.png",
+        "price": 8,
+        "category": "Vegetables",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Spicy Pepper",
+        "type": "veg"
+      },
+      {
+        "product_name": "Sweet Salad",
+        "product_id": 28,
+        "image": "assets/images/SweetSalad.png",
+        "price": 15,
+        "category": "Salad",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Salad with sweet flavor",
+        "type": "veg"
+      },
+      {
+        "product_name": "Tomato",
+        "product_id": 29,
+        "image": "assets/images/Tomato.png",
+        "price": 10,
+        "category": "Vegetables",
+        "nutrients": {
+          "kcal": 9,
+          "grams": 20,
+          "proteins": 10,
+          "fats": 1,
+          "carbs": 5
+        },
+        "description": "Tomato",
+        "type": "veg"
+      }
+    ]
+  }
+}
